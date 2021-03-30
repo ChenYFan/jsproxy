@@ -244,43 +244,43 @@ a,
 .demo-2 .codrops-header { margin-top: auto; }
 
 .demo-3 { color: #ffefb9; background-color: #2f2c2c; }
-.demo-3 main { background-color: #e85454; background-image: url(../img/bg_2.svg); }
+.demo-3 main { background-color: #e85454; background-image: url(https://api.cyfan.top/bing); }
 .demo-3 a, .demo-3 .btn { color: #ffefb9; }
 .demo-3 .btn--search-close { color: #e85454; }
 
 .demo-4 { color: #f44040; background-color: #f44040; }
-.demo-4 main { background-color: #fff59a; background-image: url(../img/bg_4.svg); }
+.demo-4 main { background-color: #fff59a; background-image: url(https://api.cyfan.top/bing); }
 .demo-4 a, .demo-4 .btn { color: #a4a186; }
 .demo-4 .btn--search-close { color: #ab3a3a; }
 
 .demo-5 { color: #cecae0; background-color: #7d7d7d; }
-.demo-5 main { background-color: transparent; background-image: url(../img/bg_2.svg); }
+.demo-5 main { background-color: transparent; background-image: url(https://api.cyfan.top/bing); }
 .demo-5 a, .demo-5 .btn { color: #eaba82; }
 
 .demo-6 { color: #ff4848; }
-.demo-6 main { background-color: #fff; background-image: url(../img/bg_5.svg); }
+.demo-6 main { background-color: #fff; background-image: url(https://api.cyfan.top/bing); }
 .demo-6 a, .demo-6 .btn { color: #000; }
 
 .demo-7 { color: #6cbb37; }
-.demo-7 main { background-color: #f5f5f5; background-image: url(../img/bg_7.svg); background-position: 100% 0; background-size: 1440px; }
+.demo-7 main { background-color: #f5f5f5; background-image: url(https://api.cyfan.top/bing); background-position: 100% 0; background-size: 1440px; }
 .demo-7 a, .demo-7 .btn { color: #000; }
 
 .demo-8 { color: #cecae0; background-color: #5562eb; }
-.demo-8 main { background-color: transparent; background-image: url(../img/bg_8.svg); }
+.demo-8 main { background-color: transparent; background-image: url(https://api.cyfan.top/bing); }
 .demo-8 a, .demo-8 .btn { color: #eaba82; }
 
 .demo-9 { color: #2d3535; background-color: #597571; }
-.demo-9 main { background-color: transparent; background-image: url(../img/bg_6.svg); }
+.demo-9 main { background-color: transparent; background-image: url(https://api.cyfan.top/bing); }
 .demo-9 a, .demo-9 .btn { color: #22d2d2; }
 .demo-9 .btn--search-close { color: #dce6e6; }
 
 .demo-10 { color: #5c32f2; background-color: #c4d5e0; }
-.demo-10 main { background-color: #fff; background-image: url(../img/bg_12.svg); }
+.demo-10 main { background-color: #fff; background-image: url(https://api.cyfan.top/bing); }
 .demo-10 a, .demo-10 .btn { color: #000; }
 .demo-10 .btn--search-close { color: #5c32f2; }
 
 .demo-11 { color: #fff; background-color: #212423; }
-.demo-11 main { background-color: transparent; background-image: url(../img/bg_9.svg); }
+.demo-11 main { background-color: transparent; background-image: url(https://api.cyfan.top/bing); }
 .demo-11 a, .demo-11 .btn { color: #34fc47; }
 
 @media screen and (max-width: 40em) {
